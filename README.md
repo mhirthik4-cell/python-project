@@ -1,2 +1,3 @@
-# python-project
-Completed my Python mini project: Student Marks Analyzer! It takes student names and marks, calculates total, average, highest and lowest marks, finds the topper, and shows a pie chart using Matplotlib. Practised loops, lists, input, f-strings, and data visualization.  #Python #Matplotlib #CodingJourney
+# Student Marks Analyzer
+
+Analyzes subject-wise student marks, calculates total, percentage, grade, and performance comments, then visualizes total marks with a Matplotlib pie chart.
